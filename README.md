@@ -3,7 +3,7 @@ Example of displaying data in a Disjoint Force-Directed Graph using [D3.js](http
 
 ## Demo
 
-https://kyhau.github.io/d3-disjoint-force-directed-graph-demo/network_directed_graph.html
+[https://kyhau.github.io/d3-disjoint-force-directed-graph-demo/network_directed_graph.html](https://kyhau.github.io/d3-disjoint-force-directed-graph-demo/network_directed_graph.html)
 
 ## Run locally
 
